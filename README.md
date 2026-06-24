@@ -83,49 +83,49 @@ My work is guided by clean code, maintainability, and thoughtful system design. 
   <tr>
     <td width="50%" valign="top">
       <h3>💳 Sistema de Cobros</h3>
-      <p>Business solution focused on managing collections, payments, and operational follow-up.</p>
-      <em>Private portfolio project</em>
+      <p>Centralized collection management solution that streamlines payment tracking, account follow-up, and day-to-day financial operations.</p>
+      <strong>🏢 Enterprise Solution</strong>
     </td>
     <td width="50%" valign="top">
       <h3>📁 Gestor de Expedientes</h3>
-      <p>Document and case-management platform designed to organize records and improve traceability.</p>
-      <em>Private portfolio project</em>
+      <p>Case and document management platform built to organize records, standardize workflows, and strengthen process traceability.</p>
+      <strong>🌐 Business Web Application</strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📦 Sistema de Almacén</h3>
-      <p>Inventory-oriented system for controlling warehouse operations, products, and stock movements.</p>
-      <em>Private portfolio project</em>
+      <p>Inventory management system that provides structured control over products, stock levels, and warehouse movements.</p>
+      <strong>📊 Inventory Management System</strong>
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ SIIAI</h3>
-      <p>Integrated information-system project centered on structured workflows and business data.</p>
-      <em>Private portfolio project</em>
+      <p>Integrated information system designed to centralize business data, coordinate operational workflows, and support informed decisions.</p>
+      <strong>🏛️ Enterprise Information System</strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🧩 DevSysGt</h3>
-      <p>Software-development initiative for delivering tailored digital products and technical solutions.</p>
-      <em>Private portfolio project</em>
+      <p>End-to-end software platform focused on delivering maintainable digital products and tailored solutions for evolving business needs.</p>
+      <strong>💻 Full Stack Platform</strong>
     </td>
     <td width="50%" valign="top">
       <h3>💰 FortuCreditos</h3>
-      <p>Financial business application focused on credit-related processes and operational management.</p>
-      <em>Private portfolio project</em>
+      <p>Financial application that organizes credit workflows, customer operations, and the information required for reliable account management.</p>
+      <strong>💰 Financial Business Application</strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📱 App Project</h3>
-      <p>Full stack application project created to connect a practical user experience with reliable services.</p>
-      <em>Private portfolio project</em>
+      <p>Cross-platform product that combines accessible user experiences with dependable services and consistent business logic.</p>
+      <strong>📱 Mobile &amp; Web Application</strong>
     </td>
     <td width="50%" valign="top">
       <h3>🛣️ app-backend-ruts-v1</h3>
-      <p>Backend service designed to support route-based application features, data, and integrations.</p>
-      <em>Private portfolio project</em>
+      <p>Backend service that exposes structured route data and integration capabilities for connected client applications.</p>
+      <strong>⚙️ API &amp; Integration Service</strong>
     </td>
   </tr>
 </table>
