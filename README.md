@@ -1,16 +1,163 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AYPG2023/AYPG2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Anderson Perdomo
 
-Here are some ideas to get you started:
+### Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Laravel • .NET • Angular • Python**
+
+[![Guatemala](https://img.shields.io/badge/Guatemala-4997D0?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Guatemala)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonperdomo525@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AYPG2023)
+
+<img src="https://komarev.com/ghpvc/?username=AYPG2023&label=Profile%20views&color=0e75b6&style=flat-square" alt="AYPG2023 profile visitor counter" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Full Stack Developer** based in Guatemala 🇬🇹, passionate about turning business needs into reliable software. I build web applications, REST APIs, business systems, integrations, and automation solutions that simplify processes and deliver measurable value.
+
+My work is guided by clean code, maintainability, and thoughtful system design. I am especially interested in scalable architectures that can evolve safely as products, teams, and business requirements grow.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend & APIs
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Delivery
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Currently Working On
+
+| Area | Focus |
+| :--- | :--- |
+| 🏢 **Enterprise Systems** | Reliable software for complex organizational workflows |
+| 📊 **Business Applications** | Practical tools that improve day-to-day operations |
+| 🔌 **APIs & Integrations** | Secure communication between services and platforms |
+| ⚙️ **Automation Solutions** | Streamlined processes with less manual effort |
+| 💻 **Full Stack Development** | Cohesive experiences from database to user interface |
+| 🗄️ **Database Design** | Maintainable data models focused on integrity and performance |
+
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Sistema de Cobros</h3>
+      <p>Business solution focused on managing collections, payments, and operational follow-up.</p>
+      <em>Private portfolio project</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 Gestor de Expedientes</h3>
+      <p>Document and case-management platform designed to organize records and improve traceability.</p>
+      <em>Private portfolio project</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Sistema de Almacén</h3>
+      <p>Inventory-oriented system for controlling warehouse operations, products, and stock movements.</p>
+      <em>Private portfolio project</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ SIIAI</h3>
+      <p>Integrated information-system project centered on structured workflows and business data.</p>
+      <em>Private portfolio project</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 DevSysGt</h3>
+      <p>Software-development initiative for delivering tailored digital products and technical solutions.</p>
+      <em>Private portfolio project</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 FortuCreditos</h3>
+      <p>Financial business application focused on credit-related processes and operational management.</p>
+      <em>Private portfolio project</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 App Project</h3>
+      <p>Full stack application project created to connect a practical user experience with reliable services.</p>
+      <em>Private portfolio project</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛣️ app-backend-ruts-v1</h3>
+      <p>Backend service designed to support route-based application features, data, and integrations.</p>
+      <em>Private portfolio project</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AYPG2023&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Anderson Perdomo's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYPG2023&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Anderson Perdomo's most used languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AYPG2023&theme=github-dark-blue&hide_border=true" alt="Anderson Perdomo's GitHub contribution streak" />
+
+</div>
+
+> GitHub cards reflect public repository activity and may not include work completed in private or organizational repositories.
+
+---
+
+## 🗂️ Other Projects
+
+My portfolio also includes additional web applications, REST APIs, automation tools, business management systems, database solutions, and custom software developed for specific operational needs.
+
+Explore more of my work in my [GitHub repositories](https://github.com/AYPG2023?tab=repositories).
+
+---
+
+## 🤝 Contact
+
+I am open to discussing software projects, technical collaboration, and professional opportunities.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AYPG2023-181717?style=for-the-badge&logo=github)](https://github.com/AYPG2023)
+[![Email](https://img.shields.io/badge/Email-andersonperdomo525%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonperdomo525@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile_available_upon_request-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<sub>Designed and maintained by Anderson Perdomo.</sub>
+
+</div>
